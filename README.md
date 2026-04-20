@@ -2,6 +2,11 @@
 
 Local web UI for visually constructing, tracing, and verifying awk programs.
 
+![Run AWK code](imgs/run.png)
+
+![Trace what happened](imgs/trace.png)
+
+
 ## Setup
 
 Requires Go 1.26+.
