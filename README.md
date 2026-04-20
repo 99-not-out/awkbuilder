@@ -2,7 +2,7 @@
 
 Local web UI for visually constructing, tracing, and verifying awk programs.
 
-See [DESIGN_BRIEF.md](DESIGN_BRIEF.md) for the what and why, and [PLAN.md](PLAN.md) for the architecture.
+See [DESIGN_BRIEF.md](DESIGN_BRIEF.md) for the what and why.
 
 ## Setup
 
