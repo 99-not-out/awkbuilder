@@ -1,0 +1,11 @@
+id,name,email,role,signup_date,credits
+1,Alice Chen,alice@example.com,admin,2024-01-14,250
+2,Bob Diaz,bob@example.com,user,2024-03-02,40
+3,Carol Evans,carol@example.com,user,2024-03-02,120
+4,"D'Angelo, Marco",marco@example.com,user,2024-05-18,0
+5,Eve Osei,eve@example.com,moderator,2024-06-11,90
+6,Frank Ng,frank@example.com,user,2025-01-09,5
+7,"Grace ""Gigi"" Park",gigi@example.com,user,2025-02-27,310
+8,Hugo Voss,hugo@example.com,user,2025-08-01,0
+9,Ivy Rao,ivy@example.com,admin,2025-10-14,780
+10,Jan Kowalski,jan@example.com,user,2026-02-28,15

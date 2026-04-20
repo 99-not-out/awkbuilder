@@ -1,0 +1,8 @@
+ID    NAME              DEPT       SALARY    HIRED
+00001 Alice Chen        Eng        132000    2021-06-14
+00002 Bob Diaz          QA         098500    2022-02-03
+00003 Carol Evans       Design     115000    2020-11-19
+00004 Dave Hall         Eng        141000    2019-04-22
+00005 Eve Osei          Sales      123500    2023-08-30
+00006 Frank Ng          Eng        087000    2024-10-01
+00007 Gigi Park         PM         138000    2018-03-12

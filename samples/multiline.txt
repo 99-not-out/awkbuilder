@@ -1,0 +1,19 @@
+Ticket #14721
+Reporter: alice
+Severity: high
+Summary: checkout throws 500 on expired coupons
+
+Ticket #14722
+Reporter: bob
+Severity: low
+Summary: dark-mode toggle misaligned on iOS 19
+
+Ticket #14723
+Reporter: carol
+Severity: medium
+Summary: search results flicker when typing quickly
+
+Ticket #14724
+Reporter: dave
+Severity: critical
+Summary: db failover leaves stale connections in pool

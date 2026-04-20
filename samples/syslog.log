@@ -1,0 +1,14 @@
+Apr 18 10:22:03 gw01 kernel: [  231.441] eth0 link up, 1000Mbps full-duplex
+Apr 18 10:22:04 gw01 sshd[4213]: Accepted publickey for alice from 192.168.1.10 port 51221 ssh2
+Apr 18 10:22:18 gw01 sudo: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/usr/bin/systemctl status nginx
+Apr 18 10:23:01 gw01 sshd[4301]: Failed password for invalid user admin from 203.0.113.7 port 44512 ssh2
+Apr 18 10:23:02 gw01 sshd[4301]: Failed password for invalid user admin from 203.0.113.7 port 44512 ssh2
+Apr 18 10:23:03 gw01 sshd[4301]: Failed password for invalid user admin from 203.0.113.7 port 44512 ssh2
+Apr 18 10:23:04 gw01 sshd[4301]: Disconnecting: Too many authentication failures [preauth]
+Apr 18 10:25:12 gw01 postgres[5102]: ERROR:  deadlock detected
+Apr 18 10:25:12 gw01 postgres[5102]: DETAIL:  Process 5102 waits for ShareLock on transaction 19234
+Apr 18 10:25:13 gw01 postgres[5102]: STATEMENT:  UPDATE users SET last_seen = now() WHERE id = 17
+Apr 18 10:27:00 gw01 CRON[5333]: (root) CMD (/usr/local/bin/backup-db.sh >> /var/log/backup.log 2>&1)
+Apr 18 10:28:44 gw01 kernel: [ 1532.912] oom-killer: killed process 3891 (python3)
+Apr 18 10:30:01 gw01 systemd[1]: Started Daily apt upgrade and clean activities.
+Apr 18 10:30:15 gw01 dhclient[889]: bound to 192.168.1.50 -- renewal in 1720 seconds.

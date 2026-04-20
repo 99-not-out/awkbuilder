@@ -1,0 +1,9 @@
+{"ts":"2026-04-18T10:22:04Z","level":"info","svc":"api","msg":"request received","path":"/index.html","status":200,"ms":42}
+{"ts":"2026-04-18T10:22:05Z","level":"info","svc":"api","msg":"request received","path":"/css/app.css","status":200,"ms":8}
+{"ts":"2026-04-18T10:22:11Z","level":"info","svc":"api","msg":"login ok","user":"bob"}
+{"ts":"2026-04-18T10:23:01Z","level":"warn","svc":"auth","msg":"invalid credentials","user":"admin","ip":"203.0.113.7"}
+{"ts":"2026-04-18T10:23:02Z","level":"warn","svc":"auth","msg":"invalid credentials","user":"admin","ip":"203.0.113.7"}
+{"ts":"2026-04-18T10:25:12Z","level":"error","svc":"db","msg":"deadlock","tx":19234}
+{"ts":"2026-04-18T10:25:13Z","level":"error","svc":"db","msg":"statement rolled back","tx":19234}
+{"ts":"2026-04-18T10:27:30Z","level":"info","svc":"api","msg":"search","q":"awk","results":128}
+{"ts":"2026-04-18T10:28:44Z","level":"fatal","svc":"worker","msg":"oom-killed","pid":3891}
